@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BookList/static/css/main.7cc6df69.css",
+    "main.js": "/BookList/static/js/main.e14f828e.js",
+    "index.html": "/BookList/index.html",
+    "main.7cc6df69.css.map": "/BookList/static/css/main.7cc6df69.css.map",
+    "main.e14f828e.js.map": "/BookList/static/js/main.e14f828e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cc6df69.css",
+    "static/js/main.e14f828e.js"
+  ]
+}
